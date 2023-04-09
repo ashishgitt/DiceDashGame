@@ -21,6 +21,7 @@ To run the game locally, follow these steps:
 1. Clone or download the repository to your local machine.
 2. Open the index.html file in a web browser.
 3. Play the game in the browser.
+4. Or you can directly visit [DiceDash](https://dicedash.netlify.app/)
 
 ## Built With
 
